@@ -1,5 +1,3 @@
-Oke, aku buatin draft `README.md` yang profesional tapi tetap simpel untuk project **TO-DO List** kamu. Nanti tinggal kamu taruh di repo GitHub 👍
-
 ````markdown
  ✅ TO-DO List App  
 
