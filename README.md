@@ -4,10 +4,6 @@
 Sebuah aplikasi TO-DO List modern yang ringan dan interaktif.  
 Dibuat dengan fokus pada kemudahan penggunaan, penyimpanan otomatis, dan desain menarik.  
 
-![Preview](https://via.placeholder.com/900x400?text=TO-DO+List+Preview)  
-
----
-
  ✨ Fitur Utama
 - 📝 Tambah, hapus, dan kelola daftar tugas harian dengan mudah.  
 - 🔄 Random Task – pilih tugas secara acak untuk dikerjakan terlebih dahulu.  
